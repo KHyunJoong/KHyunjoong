@@ -15,6 +15,7 @@
 
 [<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/KHyunJoong?tab=overview&from=2024-09-01&to=2024-09-30)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/hyunjoongkim-polarbear0x4c9)
+
 [polarbear0x4c9@gmail.com](mailto:polarbear0x4c9@gmail.com)
 
 ---
