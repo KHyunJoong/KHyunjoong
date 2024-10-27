@@ -10,17 +10,17 @@
 [<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/KHyunJoong?tab=overview&from=2024-09-01&to=2024-09-30)\
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/hyunjoongkim-polarbear0x4c9)
 
+---
 # 👨‍💻 Introduce.
 
----
 
 **이유 있는 결정과 소통을 통해 문제를 해결하는 개발자입니다.** 
 
 ![Scientific Method](https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F%20the%20Scientific%20Method-2D9BF0?style=for-the-badge)
 
+---
 # 💻 Project
 
----
 ## Q-MAKER
 <details>
 <summary> 2024.09.05 ~ 2024.09.07 (더보기)</summary>
@@ -53,9 +53,9 @@
 
 </details>
 
+---
 # 🗂️ Career History
 
----
 
 ## 제노헬릭스
 
@@ -98,9 +98,9 @@
 
 </details>
 
+---
 # ⌨️ 보유역량
 
----
 
 ## Programming
 - 데이터 분석 파이프라인 및 서비스 운영에 활용 가능
@@ -130,9 +130,9 @@
 [<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>](https://openai.com/)
 
 
+---
 # 🛠 자격증
 
----
 
 ### 데이터분석 준전문가(ADsP)
 
@@ -142,9 +142,9 @@
 
 2024.09.20
 
+---
 # 📜 참여 논문 및 학회 발표
 
----
 
 ### 참여 논문
 
@@ -170,6 +170,8 @@ In the further study, we will confirm candidate miRNAs expression by northern bl
 </details>
 <details>
 <summary> poster </summary>
+
+[2022_KSMCB_RNA_Hyunjoong_Kim최종수정본.pdf](https://github.com/user-attachments/files/17534641/2022_KSMCB_RNA_Hyunjoong_Kim.pdf)
 
 </details>
 
