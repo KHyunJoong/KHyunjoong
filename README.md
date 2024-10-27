@@ -14,10 +14,39 @@
 # 📫 Contact.
 
 [polarbear0x4c9@gmail.com](mailto:polarbear0x4c9@gmail.com)
-
-
-[<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/KHyunJoong?tab=overview&from=2024-09-01&to=2024-09-30)\
+[<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/KHyunJoong?tab=overview&from=2024-09-01&to=2024-09-30)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/hyunjoongkim-polarbear0x4c9)
+
+---
+# ⌨️ 보유역량
+
+
+## Programming
+- 데이터 분석 파이프라인 및 서비스 운영에 활용 가능
+
+[<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>](https://www.python.org/) 
+[<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>](https://www.r-project.org/) 
+[<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white"/>](https://www.gnu.org/software/bash/) 
+[<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>](https://fastapi.tiangolo.com/) 
+[<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>](https://www.docker.com/) 
+
+- 데이터베이스 설계 및 쿼리 작성 능력 
+
+[<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>](https://www.mysql.com/) 
+
+- 협업 및 버전 관리 가능
+
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/) 
+[<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://www.notion.so/) 
+[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>](https://slack.com/) 
+[<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>](https://www.atlassian.com/software/jira)
+
+- AI
+
+[<img alt="LangChain" src="https://img.shields.io/badge/LangChain-0B0B45?style=for-the-badge&logo=LangChain&logoColor=white"/>](https://www.langchain.com/)
+![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=Read-The-Docs&logoColor=white)
+[<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white"/>](https://openai.com/chatgpt)
+[<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>](https://openai.com/)
 
 
 
@@ -102,38 +131,7 @@
 </details>
 
 ---
-# ⌨️ 보유역량
 
-
-## Programming
-- 데이터 분석 파이프라인 및 서비스 운영에 활용 가능
-
-[<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>](https://www.python.org/) 
-[<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>](https://www.r-project.org/) 
-[<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white"/>](https://www.gnu.org/software/bash/) 
-[<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>](https://fastapi.tiangolo.com/) 
-[<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>](https://www.docker.com/) 
-
-- 데이터베이스 설계 및 쿼리 작성 능력 
-
-[<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>](https://www.mysql.com/) 
-
-- 협업 및 버전 관리 가능
-
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/) 
-[<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://www.notion.so/) 
-[<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>](https://slack.com/) 
-[<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>](https://www.atlassian.com/software/jira)
-
-- AI
-
-[<img alt="LangChain" src="https://img.shields.io/badge/LangChain-0B0B45?style=for-the-badge&logo=LangChain&logoColor=white"/>](https://www.langchain.com/)
-![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=Read-The-Docs&logoColor=white)
-[<img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white"/>](https://openai.com/chatgpt)
-[<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>](https://openai.com/)
-
-
----
 # 🛠 자격증
 
 
@@ -146,37 +144,6 @@
 2024.09.20
 
 ---
-# 📜 참여 논문 및 학회 발표
-
-
-### 참여 논문
-
-- Kim, E. J., Chae, H. S., Koo, M. H., Yu, J. H., **Kim, H. J.**, Cho, S. M., Kim, S. H. & Han, S. J. (2022). **"Statistical optimization of phytol and polyunsaturated fatty acid production in the Antarctic microalga Micractinium variabile."** *Algae, 37(2), 175-183*. DOI: [10.4490/algae.2022.37.4.1](https://doi.org/10.4490/algae.2022.37.4.1)
-- Kim, E. J., Chae, H. S., Yu, J. H., **Kim, H. J.**, Cho, S. M., Shin, S. C., Choi, H. G., Kim, S. H & Han, S. J. (2021). **"Mitochondrial genome of the Antarctic microalga Micractinium simplicissimum KSF0127 (Chlorellaceae, Trebouxiophyceae)."** *Mitochondrial DNA Part B, 6(3), 878-879*. DOI: [10.1080/23802359.2021.1886010](https://doi.org/10.1080/23802359.2021.1886010)
-
-
-### 학회 발표 포스터
-Kim, H. J., et al. (2022). "Identification and Analysis of microRNAs in Antarctic microalgae Micractinium variabile." *KSMCB 2022 포스터 발표*.
-<details>
-
-<summary> Abstract </summary>
-
-In eukaryotes, miRNAs are the key regulators of gene expression in post-transcriptional regulation. Some plant miRNAs have been considered to be involved in environmental stresses.
-The Antarctic has important environmental characteristics for studying the adaption of living organisms. As organisms in the Antarctic undergo abiotic stress and adapt to survive. 
-Antarctic microalgae, in particular are a major source of inorganic carbon in cold water ecosystems. In order to survive and adapt to harsh environments, they produce a variety of phytochemicals, lipids, and anti-freezing proteins.
- Despite that Antarctic microalgae play ecological and physiological functions, the role of miRNA in environmental stress responses including cold adaptations is still unknown in Antarctic microalgae.
-In this study, we attempted to find out miRNA in Antarctic microalgae Micractinium variabile (KSF0031). M. variabile was collected in the freshwater of Barton Peninsula in King George Island in maritime Antarctica. 
-We performed Small RNA Sequencing in M.variable. After removing the reads with adapter, length ≤18nt, length ≥30nt, the remaining high-quality common reads were retained. Other sRNAs, including rRNAs, tRNAs, snRNAs, and snoRNAs, annotated in Rfam 11.0 were removed. Filtered reads were analyzed using miRkwood, computational tool for the annotation of miRNAs in plant genomes. As a result, 16 miRNA candidates were obtained in M.Variabile. Comparing 16 miRNA candidates to miRNAs in Chlamydomonas reinhardtii microalgae model organisms, we found no conserved miRNAs between M. variabile and C. reinhardtii.
-Through genome and transcriptome analysis, we found miRNA processing genes like AGO and DCL in M. variabile genome. However, DRB protein genes such as HYL1, DUS16 were not discovered.
-In the further study, we will confirm candidate miRNAs expression by northern blot and improve the analytical method for miRNA profiling of M.Variabile. 
-
-</details>
-<details>
-<summary> poster </summary>
-
-[2022_KSMCB_RNA_Hyunjoong_Kim최종수정본.pdf](https://github.com/user-attachments/files/17534641/2022_KSMCB_RNA_Hyunjoong_Kim.pdf)
-
-</details>
 
 
 
