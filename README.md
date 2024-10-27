@@ -4,7 +4,6 @@
 ---
 # 👨‍💻 Introduce.
 
-
 **이유 있는 결정과 소통을 통해 문제를 해결하는 개발자입니다.** 
 
 ![Scientific Method](https://img.shields.io/badge/I%20%E2%9D%A4%EF%B8%8F%20the%20Scientific%20Method-2D9BF0?style=for-the-badge)
@@ -13,13 +12,12 @@
 
 # 📫 Contact.
 
-[polarbear0x4c9@gmail.com](mailto:polarbear0x4c9@gmail.com)
 [<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/KHyunJoong?tab=overview&from=2024-09-01&to=2024-09-30)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/hyunjoongkim-polarbear0x4c9)
+[polarbear0x4c9@gmail.com](mailto:polarbear0x4c9@gmail.com)
 
 ---
 # ⌨️ 보유역량
-
 
 ## Programming
 - 데이터 분석 파이프라인 및 서비스 운영에 활용 가능
