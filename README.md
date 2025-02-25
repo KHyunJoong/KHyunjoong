@@ -15,7 +15,7 @@
 
 [<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/KHyunJoong?tab=overview&from=2024-09-01&to=2024-09-30)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/hyunjoongkim-polarbear0x4c9)
-[<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>]([https://www.notion.so/12979cc0a54d808db8c1fb39c7a9ae03?pvs=4](https://available-caper-9d7.notion.site/)) 
+[<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://available-caper-9d7.notion.site/) 
 [polarbear0x4c9@gmail.com](mailto:polarbear0x4c9@gmail.com)
 
 ---
